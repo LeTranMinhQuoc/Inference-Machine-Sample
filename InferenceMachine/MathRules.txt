@@ -1,0 +1,5 @@
+﻿IF A AND B THEN C DO C=180-(A+B)
+IF a AND b AND c THEN P DO P=a+b+c
+IF P THEN p DO p=P/2
+IF p AND a AND b AND c THEN S DO S=Sqrt(p*(p-a)*(p-b)*(p-c))
+IF a AND b AND P THEN c DO c=P-(a+b)
