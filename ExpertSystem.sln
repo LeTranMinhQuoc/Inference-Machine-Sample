@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpertSystem", "ExpertSystem\ExpertSystem.csproj", "{7BAE047A-8FB8-4AF3-9450-10240EAAC68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpertSystem.Run", "ExpertSystem.Run\ExpertSystem.Run.csproj", "{AF34841A-76FC-4B64-B85D-E52343214B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolishNotation", "PolishNotation\PolishNotation.csproj", "{F7EF4E3E-637C-4A14-80C1-CF5863984368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BAE047A-8FB8-4AF3-9450-10240EAAC68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAE047A-8FB8-4AF3-9450-10240EAAC68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAE047A-8FB8-4AF3-9450-10240EAAC68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAE047A-8FB8-4AF3-9450-10240EAAC68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF34841A-76FC-4B64-B85D-E52343214B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF34841A-76FC-4B64-B85D-E52343214B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF34841A-76FC-4B64-B85D-E52343214B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF34841A-76FC-4B64-B85D-E52343214B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7EF4E3E-637C-4A14-80C1-CF5863984368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7EF4E3E-637C-4A14-80C1-CF5863984368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7EF4E3E-637C-4A14-80C1-CF5863984368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7EF4E3E-637C-4A14-80C1-CF5863984368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

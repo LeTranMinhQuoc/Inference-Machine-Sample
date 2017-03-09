@@ -1,0 +1,5 @@
+﻿
+IF A=$A AND B=$B THEN C=180-($A+$B) END
+IF a=$a AND b=$b AND c=$c THEN P=$a+$b+$c END
+IF P=$P THEN p=$P/2 END
+IF p=$p AND a=$a AND b=$b AND c=$c THEN S=Sqrt($p*($p-$a)*($p-$b)*($p-$c)) END
